@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="logo_no_back" />
+    <drawable name="photocamera" />
+    <drawable name="two" />
+    <drawable name="av" />
+</resources>
